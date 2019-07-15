@@ -15,8 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+
     func manager01() {
         print("manager01");
+    }
+    func xiaoshan01() {
+        print("i am very happy! new day");
     }
 
 }
