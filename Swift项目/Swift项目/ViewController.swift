@@ -26,5 +26,8 @@ class ViewController: UIViewController {
     func manager02() {
         print("manager02");
     }
+    func manager03() {
+        print("manager0333333");
+    }
 }
 
