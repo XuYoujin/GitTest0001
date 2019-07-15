@@ -22,6 +22,9 @@ class ViewController: UIViewController {
     func xiaoshan01() {
         print("i am very happy! new day");
     }
+    func xiaoshan02() {
+        print("i am very happy! new day 2222222222");
+    }
 
 }
 
