@@ -17,24 +17,27 @@ class ViewController: UIViewController {
 
 
     func manager01() {
-        print("manager01");
+        print("manager01")
     }
     func xiaoshan01() {
-        print("i am very happy! new day");
+        print("i am very happy! new day")
     }
     func xiaoshan02() {
-        print("i am very happy! new day 2222222222");
+        print("i am very happy! new day 2222222222")
     }
 
     func manager02() {
-        print("manager02");
+        print("manager02")
     }
 
     func manager03() {
-        print("manager0333333");
+        print("manager0333333")
     }
     func xiaoshan03() {
-        print("i am very happy! new day 2222222222");
+        print("i am very happy! new day 2222222222")
+    }
+    func develop() {
+        print("develop developdevelopdevelopdevelopdevelopdevelopdevelop")
     }
 }
 
